@@ -2,18 +2,24 @@
 <html>
   <head>
     <style>
-    p.1 {
-      font: bold 21px arial,sans-serif;
-    }
+    h1 {color:red;}
     </style>
-    <meta charset="utf-8"/>
+	<title style="font-size:40px">This is a paragraph.</p>
+
     <title>Alpaca Bruhs</title>
   </head>
   <body>
 
-    <h1>Alpaca Bros</h1>
+    <h1>Alpaca Bruhs</h1>
     <img src="/Desktop/alpaca.jpg" alt="Alpaca" 
     style="width:740px;height:744px;">
 
   </body>
+
+<footer>
+
+<a href="http://www.t-kougei.ac.jp/index.html">This is where i study and stuffs
+</a>
+
+	</footer>
 </html>
